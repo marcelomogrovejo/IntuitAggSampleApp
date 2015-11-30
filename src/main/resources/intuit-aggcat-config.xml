@@ -2,9 +2,9 @@
 <intuit-config>
 	<saml>
 <!-- 		<keystoreFile>/home/ubuntu/Intuit.certs/keystore.jks</keystoreFile> -->
-		<keystoreFile>/home/marcelo/Descargas/Trizic/Intuit/certs/mmogrovejo.belax.certs/keystore.jks</keystoreFile>
+		<keystoreFile>/home/marcelo/Descargas/Trizic/Intuit/certs/trizicapp.certs/keystore.jks</keystoreFile>
 		<keystorePassword>trizpass</keystorePassword>
 		<keyPassword>trizpass</keyPassword>
-		<certAlias>mmogrovejoapp</certAlias>
+		<certAlias>trizicapp</certAlias>
 	</saml>
 </intuit-config>
